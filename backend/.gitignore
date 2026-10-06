@@ -1,0 +1,19 @@
+# Dependencies
+/node_modules
+
+# Environment variables (Crucial for MongoDB and JWT keys)
+.env
+
+# Local image / profile uploads
+/uploads
+/uploads/images
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs and System files
+.DS_Store
+/.idea
+/.vscode
